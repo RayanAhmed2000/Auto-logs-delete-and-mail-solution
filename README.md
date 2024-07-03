@@ -1,2 +1,10 @@
-# Auto-logs-delete-and-mail-solution
-This repo contains script for automatic logs deletion
+# Prequisites
+- update 
+```
+sudo yum update -y
+```
+- install packages
+```
+sudo yum install -y mailx
+
+```
